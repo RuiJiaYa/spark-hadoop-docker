@@ -10,7 +10,7 @@
 拉取镜像：
 
 ```sh
-docker pull f9datatao195/spark-hadoop:3
+docker pull RuiJiaYa/spark-hadoop:3
 ```
 
 拷贝项目中的 docker-compose.yml 至本地，执行如下命令启动集群：
